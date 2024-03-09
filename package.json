@@ -41,7 +41,7 @@
     "setup": "generate.js"
   },
   "author": "Ali Hasnain",
-  "homepage": "",
+  "homepage": "https://github.com/alihasnain1221/express-ts-boiler-plate",
   "license": "ISC",
   "files": [
     "main.zip"
