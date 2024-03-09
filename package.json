@@ -1,6 +1,6 @@
 {
   "name": "express-ts-boiler-plate",
-  "version": "1.2.65",
+  "version": "1.2.67",
   "description": "Basic express Typescript with mongodbConnection Boiler Plate",
   "main": "index.js",
   "keywords": [
@@ -42,6 +42,13 @@
   },
   "author": "Ali Hasnain",
   "homepage": "https://github.com/alihasnain1221/express-ts-boiler-plate",
+  "maintainers": [
+    {
+      "name": "Ali Hasnain",
+      "email": "alibutthasnain@gmail.com",
+      "url": "https://www.linkedin.com/in/ali-hasnain-mir/"
+    }
+  ],
   "license": "ISC",
   "files": [
     "main.zip"
