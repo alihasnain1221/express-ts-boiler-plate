@@ -1,0 +1,52 @@
+{
+  "name": "express-ts-boiler-plate",
+  "version": "1.2.65",
+  "description": "Basic express Typescript with mongodbConnection Boiler Plate",
+  "main": "index.js",
+  "keywords": [
+    "express boilerplate",
+    "typescript express",
+    "typescript express boilerplate",
+    "express typescript boilerplate",
+    "express typescript",
+    "express",
+    "typeScript",
+    "typescript",
+    "ts",
+    "mongoose",
+    "mongodb",
+    "tspath",
+    "node",
+    "nodejs",
+    "rest",
+    "es7",
+    "MongoDB",
+    "generate",
+    "generator",
+    "template",
+    "prettier",
+    "eslint",
+    "tsconfig",
+    "setup",
+    "boilerplate",
+    "backend",
+    "api",
+    "imports",
+    "dynamic imports",
+    "create node app",
+    "professional",
+    "generic"
+  ],
+  "bin": {
+    "setup": "generate.js"
+  },
+  "author": "Ali Hasnain",
+  "homepage": "",
+  "license": "ISC",
+  "files": [
+    "main.zip"
+  ],
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  }
+}
